@@ -1,9 +1,6 @@
 streamlit>=1.30.0
 geopandas>=0.14.0
-pysal>=24.1
-libpysal>=4.11.0
-esda>=2.5.1
+numpy>=1.24.0
 folium>=0.15.0
 streamlit-folium>=0.18.0
-matplotlib>=3.8.0
 scipy>=1.11.0
